@@ -6,8 +6,8 @@
 package Progressing;
 
 /**
+ * this is the most perfect tic tac toe table that you would ever seen. You can use this template in sudoku or anyother things as well.
  *
- * @author user
  */
 public class ttt {
 
