@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class basicOfGame{
     public static void main(String[] args){
+        //this is basic of all my projects if you understand this code then congratilation welcome to may world. And even if you've wacted naruto we can even be teammate.
         Scanner s= new Scanner(System.in);
    char [][] world ={ {'=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','=','='},
                         {' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' '},
