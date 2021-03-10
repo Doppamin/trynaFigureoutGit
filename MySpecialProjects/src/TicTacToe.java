@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//this is my first projects and it openei my eyes.After this turnpoint i could able to build different things.But so buggy i prefer last project
 public class TicTacToe {
 
     public static void main(String[] args) {
