@@ -1,6 +1,9 @@
 package failedAttemp;
 
 public class cumhurBaşkanTahminEt {
+   //Aklımda akinator tarzı evet hayır sorulu bi oyun vardı. Ama akılda tutulması gerekn sınırlı ismin olduğu bi şey olsun istedim.Avrupa ülkeleri ya da 
+    //devlet başkanlarının yapacaktım ama sonra bundan sıkıldım hem zaten Cumhurbaşkanlarının evet hayırla ayırbilecek sorular da bulamadım. fikir olarak kaldı
+    //istersen kullanabilirsin bu fikrimi . Yani ilgi çeker
     public static void main(String[] args) {
         
 //M. Kemal ATATÜRK
