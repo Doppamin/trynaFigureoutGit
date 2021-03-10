@@ -1,6 +1,11 @@
 
 import java.util.*;
-
+/*
+Actually hard ai haven't finished yet.Only part that left i had to add last part of if else comAi()method which it does put x or o in every block to chck win or lose.
+if no win or lose put random. But because of my tangled code i couldnt make it more.Aslında yapacağımı anladığımda anda kodlamayı bırakıyorum. BUnları yapmamın sebebi
+Acaba yapabilir miyim sorusunu cevaplamak ve cevabımı aldım.Tek yapmam gereken dongü içinde boş olan indise x koyup chkwin()yapıp tekrar boşaltmak indisi.Aslında birnevi bu
+kısmı team mate'e bırakıyorum bulursam
+*/
 public class XOXDemo {
     static char[] places={'1','2','3','4','5','6','7','8','9'};
     
