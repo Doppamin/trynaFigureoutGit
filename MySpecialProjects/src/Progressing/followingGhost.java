@@ -1,6 +1,8 @@
 //25/12/2020
 package Progressing;
 import java.util.Scanner;
+/** I did pacman game other project but that ghost didn't follow me . I created this project to findout what is my problem.
+Interestingly that gosth following me in 1D dimension**/
 public class followingGhost {
 
 
