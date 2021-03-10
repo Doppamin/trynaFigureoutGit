@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author user
+ * this is the office refrences don't get this wrong
  */
 public class Password {
 
@@ -24,9 +24,9 @@ public class Password {
         String sifre = scn.next();
         if (kullanıcı.equals("Hudayi") && sifre.equals("bigboobz69")) {
             System.out.println("Başarıyla sisteme giriş yaptınız");
-        } else if (!kullanıcı.equals("Hudayi") && sifre.equals("bigboobz69")) {
+        } else if (!kullanıcı.equals("Hudayi") && sifre.equals("bigboobz")) {
             System.out.println("Yanlış kullanıcı adı ");
-        } else if (kullanıcı.equals("Hudayi") && !sifre.equals("bigboobz69")) {
+        } else if (kullanıcı.equals("Hudayi") && !sifre.equals("bigboobz")) {
             System.out.println("Hatalı şifre");
         } else {
             System.out.println("hatalı giriş");
