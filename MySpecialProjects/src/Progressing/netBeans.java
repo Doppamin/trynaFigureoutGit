@@ -1,5 +1,12 @@
 
 import java.util.Scanner;
+/* i tried to create compailer inside a compiler in terminal and i kinda did what i wanted to do
+*oku("any Word")  is print syntax. if you miss paratesis or any other punciation it won't print anything
+*top(number,number2) , cik(number,number2) this is addition and substraction Code.But it works only 1 digit numbers
+*
+*
+*
+*/
 
 public class netBeans {
 
