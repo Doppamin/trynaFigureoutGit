@@ -1,5 +1,6 @@
 package Progressing;
 import java.util.*;
+/** in this program i started to develop tetris game a good design but then bored.Don't know when will i start again**/
 public class Tetris {
     public static void main(String[] args) {
         Control ctrl = new Control();
@@ -29,7 +30,7 @@ class Textures{
 class Blocks extends Textures{
    ArrayList<char[][]> BlockL=new ArrayList<char[][]>(Arrays.asList(blockL,blockL2,blockL3,blockL4));
 }
-class Locations{    //fuck me
+class Locations{    //i wanna die
 }
 class Control extends Blocks{
     void showBlock(){
