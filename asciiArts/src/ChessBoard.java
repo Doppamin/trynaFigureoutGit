@@ -8,7 +8,7 @@ public class ChessBoard {
     static char[][]chessBoard=new char[10][25];
     public static void main(String[] args) {
        for (char[] row: chessBoard)
-         //   Arrays.fill(row,'█');
+         //   Arrays.fill(row,'█'); i still wanna know how to use array.fills damm i have tons of things that need to learn
        fillMatrix();
        printMatrix();
         
