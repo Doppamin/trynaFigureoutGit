@@ -3,6 +3,8 @@ package failedAttemp;
 
 public class Sudoku {
 
+    //  i tried to print sudoku table and it goes well unless it didng highlighted the rows
+   //only collumns are thick but i need to make row aswell to complate 3x3 square in sudoku 
     public static void main(String[] args) {
         // TODO code application logic here
         board();
