@@ -34,7 +34,7 @@ System.out.println(chosenval[choose-1]);
 paraSil(values,chosenval[choose-1]);
 //chosenval[choose-1]=0;
 t++;
-kutuAc();
+// kutuAc(); this is for visualization but it's so boring to this alone.
 if(t%3==0){
     s("Hamdi Beyin Teklifi"+hamdiBey(values));
 }
@@ -144,7 +144,7 @@ System.out.println("| 5    |");
 System.out.println("└──────┘");
 }
 
-public static String[]kutular(int num){
+public static String[]kutular(int num){ //I will maybe complate this grapics after i found collabrating teams.Maybe we can also be friend  :)
      String[]kutu={"┌──────┐","|¯¯────|","|"+num+"     |","└──────┘"};
      return kutu;
 }
