@@ -1,6 +1,10 @@
 
 package Progressing;
-
+/** in this program i was doing cursed meme like Hello.World("System.out.println"); then gone deep and try method inside same method
+* interesting eror and result of googling i found out this is what they call recursion. This is my story how i randomly learn recorsion. 
+*
+*
+**/
 public class cursedJava {
     
     
