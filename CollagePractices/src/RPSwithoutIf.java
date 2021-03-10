@@ -16,7 +16,7 @@ public class RPSwithoutIf {
             hmn =s.nextInt();
             count++;
             if(count>4){
-                System.out.println("Fuck you ");
+                System.out.println("F*#^ you "); // damm im so pissing off the people who type 3 or more than wrong just 1 2 3 its not rocket science
                 int[]f={0};
                 f[1]=0;
             }   
